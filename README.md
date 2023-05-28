@@ -3,7 +3,7 @@
 A skill test task from Trading Economics
 You will have to run both backend and frontend side scripts.
 
-## To insatll dependencies
+## To install dependencies
 
 In the project directory, you can run:
 ### `npm install`
